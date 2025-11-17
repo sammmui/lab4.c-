@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "shared_mutex": "cpp",
-        "vector": "cpp",
-        "stdexcept": "cpp"
-    }
-}
